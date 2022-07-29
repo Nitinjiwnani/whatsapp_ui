@@ -1,16 +1,8 @@
 # whatsapp_ui_flutter
 
-A new Flutter project.
+This is a WhatsApp UI made with flutter by me for a leaning purpuse to better understand the concept of widgets.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Here is the screenshots of the UI:![Screenshot_20220730_011131](https://user-images.githubusercontent.com/86294062/181852612-f48b6f33-fac2-4faf-9b97-cdbc30916b2c.jpg)
+![Screenshot_20220730_011126](https://user-images.githubusercontent.com/86294062/181852619-1ce575b9-6bb8-47ae-9e72-a1dbdef18236.jpg)
+![Screenshot_20220730_011119](https://user-images.githubusercontent.com/86294062/181852621-f095f2c2-4d8b-4bea-be23-5f0774135c61.jpg)
+![Screenshot_20220730_011114](https://user-images.githubusercontent.com/86294062/181852622-cc9dfd98-db26-493d-ac6d-a17eb65c003f.jpg)
